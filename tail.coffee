@@ -1,6 +1,8 @@
 (() ->
+  console.log "ok"
   if typeof Meteor !== 'undefined'
     require = Npm.require
+  require = Npm.require
 
   events = require('events')
   fs = require('fs')
