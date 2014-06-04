@@ -6,7 +6,7 @@
   "version": "0.3.5",
   "repository": {
     "type": "git",
-    "url": "git://github.com/lucagrulla/node-tail.git"
+    "url": "git@github.com:nachoab/node-tail.git"
   },
   "main": "tail",
   "engines": {
